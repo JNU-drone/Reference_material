@@ -10,6 +10,6 @@
   **4完成PULL REQUESTS后，分支就被合并到主分支了。**   
     5记得PULL拉取和同步远程仓库代码到本地分支，不然无法同步别人的代码操作。   
   一般main分支是代码最稳定的版本。   
-  ![failedtoopen](images/git操作解释1.png)   
+  ![failedtoopen](Images/git操作解释1.png)   
         
-  ![failedtoopen](images/git操作解释2.png)
+  ![failedtoopen](Images/git操作解释2.png)
