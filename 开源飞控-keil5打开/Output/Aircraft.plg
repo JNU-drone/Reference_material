@@ -1,0 +1,69 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+C:\Documents and Settings\dsc\桌面\Aircraft_DMP_dsc\Aircraft.uvproj
+Project File Date:  08/20/2013
+
+<h2>Output:</h2>
+Build target 'Aircraft'
+linking...
+Program Size: Code=22064 RO-data=3656 RW-data=144 ZI-data=1680  
+FromELF: creating hex file...
+".\Output\Aircraft.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Documents and Settings\\dsc\\桌面\\Aircraft_DMP_dsc\\Output\\Aircraft.AXF" 
+* JLink Info: Device "STM32F103T8" selected (64 KB flash, 20 KB RAM).
+Set JLink Project File to "C:\Documents and Settings\dsc\桌面\Aircraft_DMP_dsc\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.35b, compiled Sep  2 2011 18:34:46
+Firmware: J-Link ARM V8 compiled Jul 17 2013 11:24:15
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: TotalIRLen = ?, IRPrint = 0x..000000000000000000000000
+**JLink Warning: CPU core not found.
+Build target 'Aircraft'
+linking...
+Program Size: Code=22064 RO-data=3656 RW-data=144 ZI-data=1680  
+FromELF: creating hex file...
+".\Output\Aircraft.axf" - 0 Error(s), 0 Warning(s).
+Load "C:\\Documents and Settings\\dsc\\桌面\\Aircraft_DMP_dsc\\Output\\Aircraft.AXF" 
+* JLink Info: Device "STM32F103T8" selected (64 KB flash, 20 KB RAM).
+Set JLink Project File to "C:\Documents and Settings\dsc\桌面\Aircraft_DMP_dsc\JLinkSettings.ini"
+ 
+JLink info:
+------------
+DLL: V4.35b, compiled Sep  2 2011 18:34:46
+Firmware: J-Link ARM V8 compiled Jul 17 2013 11:24:15
+Hardware: V8.00
+S/N : 20100213 
+Feature(s) : RDI,FlashDL,FlashBP,JFlash,GDBFULL 
+ 
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ROMTableAddr = 0xE00FF003
+* JLink Info: Found SWD-DP with ID 0x1BA01477
+* JLink Info: TPIU fitted.
+* JLink Info:   FPUnit: 6 code (BP) slots and 2 literal slots
+* JLink Info: Found Cortex-M3 r1p1, Little endian.
+ 
+Target info:
+------------
+Device: STM32F103T8
+VTarget = 3.351V
+State of Pins: 
+TCK: 0, TDI: 0, TDO: 0, TMS: 1, TRES: 1, TRST: 0
+Hardware-Breakpoints: 6
+Software-Breakpoints: 8192
+Watchpoints:          4
+JTAG speed: 2000 kHz
+ 
+Erase Done.
+Programming Done.
+Verify OK.

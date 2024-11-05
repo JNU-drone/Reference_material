@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I.\StartUp -I.\User_Src -I.\Lib\inc -I.\BSP -I.\APP -I.\eMPL --c99 -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\ST\STM32F10x" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_MD -DMOTION_DRIVER_TARGET_STM32 -o ".\Output\attitude.o" --omf_browse ".\Output\attitude.crf" --depend ".\Output\attitude.d" "APP\attitude.c"

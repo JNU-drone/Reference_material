@@ -1,0 +1,39 @@
+.\output\altitude.o: HAL\Altitude.c
+.\output\altitude.o: HAL\Altitude.h
+.\output\altitude.o: .\USER\sys.h
+.\output\altitude.o: .\USER\delay.h
+.\output\altitude.o: .\USER\sys.h
+.\output\altitude.o: .\HARDWARE\ms5611.h
+.\output\altitude.o: .\CONFIG\I2C.h
+.\output\altitude.o: .\StartUp\stm32f10x.h
+.\output\altitude.o: .\StartUp\core_cm3.h
+.\output\altitude.o: D:\keil 5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\altitude.o: .\StartUp\system_stm32f10x.h
+.\output\altitude.o: .\StartUp\stm32f10x_conf.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_adc.h
+.\output\altitude.o: .\StartUp\stm32f10x.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_can.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_dma.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_exti.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_flash.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_gpio.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_i2c.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_rcc.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_rtc.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_spi.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_tim.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_usart.h
+.\output\altitude.o: .\Lib\inc\stm32f10x_wwdg.h
+.\output\altitude.o: .\Lib\inc\misc.h
+.\output\altitude.o: .\HARDWARE\LED.h
+.\output\altitude.o: .\CONFIG\GPIO.H
+.\output\altitude.o: HAL\remote.h
+.\output\altitude.o: HAL\control.h
+.\output\altitude.o: HAL\pid.h
+.\output\altitude.o: D:\keil 5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\output\altitude.o: D:\keil 5\ARM\ARMCC\Bin\..\include\string.h
+.\output\altitude.o: .\MATH\imu.h
+.\output\altitude.o: .\HARDWARE\mpu6050.h
+.\output\altitude.o: .\MATH\myMath.h
+.\output\altitude.o: .\MATH\kalman.h
+.\output\altitude.o: .\HARDWARE\fmb.h
