@@ -2,9 +2,9 @@
 以后我们的工程文件和代码工作尽量都会在这里同步和交流。git上的organization有很多功能。   
 最后有git的一些操作说明。
 ## 一、一些值得学习的仓库链接：
-1.     
-2.    
-3.   
+1.  https://github.com/ZJU-FAST-Lab/Fast-Drone-250.git   
+2.    https://github.com/espressif/esp-drone.git
+3.   https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
 4.    
 
 
