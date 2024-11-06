@@ -5,7 +5,7 @@
 1.  https://github.com/ZJU-FAST-Lab/Fast-Drone-250.git   
 2.    https://github.com/espressif/esp-drone.git
 3.   https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
-4.    
+4.    推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html
 
 
 ## 二、目前主要的进展黑板：
