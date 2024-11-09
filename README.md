@@ -2,13 +2,13 @@
 以后我们的工程文件和代码工作尽量都会在这里同步和交流。git上的organization有很多功能。   
 最后有git的一些操作说明。
 ## 一、一些值得学习的仓库链接：
-1.  https://github.com/ZJU-FAST-Lab/Fast-Drone-250.git   
-2.    https://github.com/espressif/esp-drone.git
-3.   https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
-4.    推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html
-5. PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot
-6. ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git     
-   这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。
+1.这是国际上最屌的飞控系统，群机协同。膜拜：https://github.com/ZJU-FAST-Lab/Fast-Drone-250.git   
+2.这是乐鑫ESP32的开源无人机方案https://github.com/espressif/esp-drone.git
+3.港大的规划代码开源https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
+4.推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html
+5.PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot
+6.ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git     
+这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。
 7.  2024.11.9更新
 
 
@@ -20,8 +20,8 @@
   (3)STM32   
   (4)NVIDA Jsetonano     
   (5)...
-4. 我们可以自己设计一个板子，但这个难度系数太大。仓库里倒是有开源的原理图和PCB。具体再商量。     
-5. 人员情况：目前是我们个，还有23物联5个人。    
+4. 我们可以自己设计一个板子，目前正在和罗勇老师交流。仓库里倒是有开源的原理图和PCB，物联的可以先看看。     
+5. 人员情况：    
   可以推荐有技术的一起。
 6. 主要目的：   
   申报大创等一系列经费很足的比赛和项目。
@@ -33,7 +33,6 @@
 10. 准备25年5月的一个国际会议，这个含金量比较高，会被EI和北大核心收录。
     ![image](https://github.com/user-attachments/assets/7c8db92c-5dfe-41a5-9158-2b2dd30670da)
     加油。
-
 
 ## 三、Git_tips：     
   ##### 分支分为本地分支和远程分支两种。     
