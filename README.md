@@ -6,6 +6,7 @@
 2.    https://github.com/espressif/esp-drone.git
 3.   https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
 4.    推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html
+5. PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot
 
 
 ## 二、目前主要的进展黑板：
