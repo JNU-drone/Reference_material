@@ -7,6 +7,9 @@
 3.   https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
 4.    推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html
 5. PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot
+6. ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git     
+   这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。
+7.  2024.11.9更新
 
 
 ## 二、目前主要的进展黑板：
