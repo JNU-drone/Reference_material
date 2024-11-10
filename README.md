@@ -2,14 +2,14 @@
 以后我们的工程文件和代码工作尽量都会在这里同步和交流。git上的organization有很多功能。   
 最后有git的一些操作说明。
 ## 一、一些值得学习的仓库链接：
-1.这是国际上最屌的飞控系统，群机协同。膜拜：https://github.com/ZJU-FAST-Lab/Fast-Drone-250.git   
-2.这是乐鑫ESP32的开源无人机方案https://github.com/espressif/esp-drone.git
-3.港大的规划代码开源https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git
-4.推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html
-5.PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot
-6.ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git     
-这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。
-7.  2024.11.9更新
+1.这是国际上最屌的飞控系统，群机协同。膜拜：https://github.com/ZJU-FAST-Lab/Fast-Drone-250.git        
+2.这是乐鑫ESP32的开源无人机方案https://github.com/espressif/esp-drone.git     
+3.港大的规划代码开源https://github.com/HKUST-Aerial-Robotics/Fast-Planner.git     
+4.推荐去看一下正点原子的开源无人机项目：http://47.111.11.73/docs/fouraxis-fly/wukong.html     
+5.PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot     
+6.ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git            
+这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。      
+7.  2024.11.9更新     
 
 
 ## 二、目前主要的进展黑板：
