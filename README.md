@@ -10,7 +10,12 @@
 6.ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git            
 这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。      
 7.https://github.com/mavlink/mavros.git    
-MAVROS是一个在 ROS（Robot Operating System）系统上运行的 MAVLink 协议接口，它允许 ROS 与 MAVLink 兼容的自动驾驶飞行器（如 PX4 和 ArduPilot）进行通信。
+MAVROS是一个在 ROS（Robot Operating System）系统上运行的 MAVLink 协议接口，它允许 ROS 与 MAVLink 兼容的自动驾驶飞行器（如 PX4 和 ArduPilot）进行通信。    
+8. https://github.com/gazebosim/gazebo-classic.git    
+Gazebo Classic仿真器软件。咱可以用来进行无人机开发和测试。      
+它的仿真环境，可以模拟物理交互、传感器反馈和多种复杂的环境场景。    
+2024.11.11zpy
+
 
 
 ## 二、目前主要的进展黑板：
