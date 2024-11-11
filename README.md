@@ -9,7 +9,8 @@
 5.PX4飞控模块，相当于无人机的大脑。https://github.com/PX4/PX4-Autopilot     
 6.ArduPilot开源自动驾驶系统：https://github.com/ArduPilot/ardupilot.git            
 这个大疆早年无人机也在用的自动驾驶系统，我还没看懂，加油。      
-7.  2024.11.9更新     
+7.https://github.com/mavlink/mavros.git    
+MAVROS是一个在 ROS（Robot Operating System）系统上运行的 MAVLink 协议接口，它允许 ROS 与 MAVLink 兼容的自动驾驶飞行器（如 PX4 和 ArduPilot）进行通信。
 
 
 ## 二、目前主要的进展黑板：
